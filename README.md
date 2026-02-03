@@ -16,7 +16,7 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation, Virtual Machines, Log Analysis, Risk Analysis, Cloud Security| <a href="https://medium.com/@justinzebo123/fortifying-the-virtual-perimeter-honeypots-and-siem-in-action-9bb995692be3">Fortifying the Virtual Perimeter</a>|
+| SIEM Implementation, Virtual Machines, Log Analysis, Risk Analysis, Cloud Security| <a href="https://github.com/justindwarren/Fortifying-the-Virtual-Perimeter">Fortifying the Virtual Perimeter</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -58,4 +58,5 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 </div>
 
 ## Projects
-- Fortifying the Virtual Perimeter
+- <a href="https://github.com/justindwarren/Fortifying-the-Virtual-Perimeter">Fortifying the Virtual Perimeter</a>
+
