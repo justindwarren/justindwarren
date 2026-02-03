@@ -1,26 +1,24 @@
 # Hello, I'm Justin
 <a href="https://www.linkedin.com/in/justindwarren/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Entry-level cybersecurity professional with a strong foundation in threat detection, incident response, risk 
+management, and a growing interest in cloud security. I gained hands-on experience through the UT Dallas Cybersecurity 
+Bootcamp and earned my CompTIA Security+ certification, developing skills in SIEM tools, log analysis, and red and blue 
+team operations. With a background in data analysis and client services, I enjoy working with teams to strengthen security 
+and continuously grow my skills. 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey in tech began with curiosity and, through bootcamp training and Security+ certification, has grown into a passion for IT, cybersecurity, and technology. I’m excited to apply my skills in an entry-level role while continuing to learn and contribute.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation, Log Analysis, Risk Analysis, and Honeypots| <a href="https://medium.com/@justinzebo123/fortifying-the-virtual-perimeter-honeypots-and-siem-in-action-9bb995692be3">Fortifying the Virtual Perimeter</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
