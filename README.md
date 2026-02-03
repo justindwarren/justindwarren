@@ -58,5 +58,4 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Fortifying the Virtual Perimeter
