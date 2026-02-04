@@ -47,6 +47,13 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 
 </div>
 
+### Cloud
+</div>
+<img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</div>
+
+
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
