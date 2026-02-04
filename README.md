@@ -10,7 +10,7 @@ and continuously grow my skills.
 ## Objective
 
 
-My journey in tech began with curiosity and, through bootcamp training and Security+ certification, has grown into a passion for IT, cybersecurity, and technology. I’m excited to apply my skills in an entry-level role while continuing to learn and contribute.
+My journey in tech began with curiosity and, through bootcamp training and Security+ certification, has grown into a passion for IT, cybersecurity, and technology. I’m excited to apply my skills in an Jr, Tier 1 role while continuing to learn and contribute.
 
 ## Skills
 
