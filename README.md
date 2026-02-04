@@ -19,7 +19,6 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 | SIEM Implementation, Virtual Machines, Log Analysis, Risk Analysis, Cloud Security| <a href="https://github.com/justindwarren/Fortifying-the-Virtual-Perimeter">Fortifying the Virtual Perimeter</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -49,7 +48,6 @@ My journey in tech began with curiosity and, through bootcamp training and Secur
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-UTD_Cybersecurity_Bootcamp-FF6600?&style=for-the-badge&logo=education&logoColor=white" />
